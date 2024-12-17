@@ -38,7 +38,9 @@ namespace WorldCrazyLib
         /// 建構子，可指定 log 檔案名稱預設將以今天 yyyyMMdd 形式命名，也可自行指定其他日期，以利讀取
         /// </summary>
         public Serilog()
-        {        }
+        {
+
+        }
 
         /// <summary>
         /// 建構子，可指定 log 檔案名稱，預設將以今天 yyyyMMdd 形式命名，也可自行指定其他日期，以利讀取
