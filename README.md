@@ -1,0 +1,1 @@
+# Library for World Crazy TRPG Server

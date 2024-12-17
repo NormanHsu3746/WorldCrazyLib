@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldCrazyLib", "WorldCrazyLib\WorldCrazyLib.csproj", "{CE243F37-427D-4636-A8F0-77B141C7762C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{01A88143-7290-4864-9070-6543AFE4D214}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		CHANGELOG.md = CHANGELOG.md
+		LICENSE = LICENSE
+		README.md = README.md
+		World Crazy Library.png = World Crazy Library.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE243F37-427D-4636-A8F0-77B141C7762C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE243F37-427D-4636-A8F0-77B141C7762C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE243F37-427D-4636-A8F0-77B141C7762C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE243F37-427D-4636-A8F0-77B141C7762C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
