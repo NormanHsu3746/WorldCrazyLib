@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>0.0.0</Version>
+    <Authors>NormanHsu</Authors>
+    <Company>World Crazy TRPG Server</Company>
+    <Description>Library for World Crazy TRPG Server</Description>
+    <Copyright>MIT License</Copyright>
+    <PackageProjectUrl>https://github.com/NormanHsu3746/WorldCrazyLib</PackageProjectUrl>
+    <PackageIcon>World Crazy Library.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>World Crazy TRPG Server, Library</PackageTags>
+    <PackageOutputPath>C:\WorldCrazyTRPG\Library\WorldCrazyLib\NuGet</PackageOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Avatar\World Crazy Library.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
