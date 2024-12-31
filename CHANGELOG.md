@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.0
+* 新增 Config.cs
+* 新增 NuGet 套件 Microsoft.Extensions.Configuration 與相關套件
+* 新增 NuGet 套件 Microsoft.Extensions.Logging 與相關套件
+
 ## 0.0.0
 * Initial Commit
 * 新增 README.md
