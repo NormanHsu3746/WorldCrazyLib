@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.1
+* 新增 LICENSE.txt
+
 ## 0.1.0
 * 新增 Config.cs
 * 新增 NuGet 套件 Microsoft.Extensions.Configuration 與相關套件

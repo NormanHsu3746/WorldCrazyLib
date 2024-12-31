@@ -9,7 +9,7 @@
     <Authors>NormanHsu</Authors>
     <Company>World Crazy TRPG Server</Company>
     <Description>Library for World Crazy TRPG Server</Description>
-    <Copyright>MIT License</Copyright>
+    <Copyright>Copyright © World Crazy TRPG Server 2025. All rights reserved.</Copyright>
     <PackageProjectUrl>https://github.com/NormanHsu3746/WorldCrazyLib</PackageProjectUrl>
     <PackageIcon>World Crazy Library.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
